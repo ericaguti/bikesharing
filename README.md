@@ -60,3 +60,5 @@ According to the User Trips by Gender by Weekday Graph:
 
 ## Summary 
 The analysis of the "tripduration" data found that Subscribers use the bikesharing bikes more frequenlty compared to Customers that use the bikesharing bikes without a subscription. Within the Subscriber group based on gender, Male subcribers use bikesharing bikes more frequently compared to any other gender. Overall there is a pick up in usuage of the bikesharing bikes between 7AM-9AM and then again from 5PM-8PM. The time frames where we see more ridership correlate with work commute hours. 
+
+Additional visualizations for future analysis would be to see how many trips subscribing riders are taking per week. Also, if there is a loss in subscribing ridership by gender. 
